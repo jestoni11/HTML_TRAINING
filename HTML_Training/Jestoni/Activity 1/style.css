@@ -1,0 +1,32 @@
+
+* {
+    margin-left: 5px;
+    padding: 2;
+    margin: 2;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+table,tr,th,td{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    
+    
+}
+caption{
+    text-align: center;
+    caption-side: top;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+h3{
+    color: green;
+}
